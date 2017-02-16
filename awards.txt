@@ -1,0 +1,10 @@
+2300:SemiTruck:frontwheel
+2100:UtilVeh:frontwheel
+19650:Luxury:either
+35000:SportsCar:rearwheel
+15000:SportsCar:either
+28000:UtilityVeh:frontwheel
+36900:Luxury:either
+27400:SemiTruck:either
+59600:Luxury:rearwheel
+15000:SportsCar:either
